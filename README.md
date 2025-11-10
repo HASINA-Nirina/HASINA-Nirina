@@ -1,19 +1,15 @@
 <!-- README.md – HASINA NIRINA | Frontend Developer -->
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQuanyfICQKEtj0HznSOqdUyn267LebBdzzA&s" alt="Dark Luffy Wallpaper Banner" style="width:100%; max-width:900px; border-radius:16px; box-shadow:0 6px 20px rgba(0,0,0,0.35);">
-
----
+  <img src="https://lh4.googleusercontent.com/proxy/H9oXp3bBbSkIht4OqVfmFI9FtW8CUN7Ad9Ok_INVCNHw592fXznSgGAF6wWTziRvH47wjyD4WLsRn_whunNjxlXleZhsxW2-XRXmu76LmjXAKXg67O_JaibEqlL5bbnItRuUw55wuRoCQrsvXFFKPZttPcq4fC14qhC9tX6uGMtpA-ZoZyq5X72MOH9kiJzf41_drAyelt7Lpw" alt="Dark Luffy Wallpaper Banner" style="width:100%; max-width:900px; border-radius:16px; box-shadow:0 6px 20px rgba(0,0,0,0.35);">
 
 <!-- ✨ SECTION 2 : INTRODUCTION -->
 <div align="center">
 
-👋 **Bienvenue dans mon univers numérique**  
-🚀 Je suis **HASINA Nirina** — *Frontend Developer*  
-💡 *Construire des expériences web modernes, rapides et intuitives*  
+<h>👋Bienvenue dans mon univers numérique</h>  
+<h1>Je suis HASINA Nirina — *Frontend Developer</h1>  
+<h2>Construire des expériences web modernes, rapides et intuitives</h2>  
 
 </div>
-
----
 
 <!-- 🎯 SECTION 3 : MISSION -->
 <h2 align="center">🎯 MA MISSION</h2>
@@ -68,8 +64,6 @@ const HasinaNirina = {
 
 📧 **jinxpowder2004@gmail.com**
 </div>
-
----
 
 <div align="center" style="margin-top:30px;">
 <p>© 2025 <strong>HASINA Nirina</strong> — Tous droits réservés.</p>
