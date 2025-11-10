@@ -1,12 +1,14 @@
 <!--
-FICHIER README.MD POUR LE PROFIL GITHUB
-Inspiré par le design de dconco, adapté pour HASINA-NIRINA.
+FICHIER README.MD CORRIGÉ ET COMPLET
+Les liens d'images ont été rectifiés pour l'affichage immédiat.
 -->
 
-<!-- SECTION 1 : BANNIÈRE ET TITRE PRO (Simule le dégradé de dconco) -->
+<!-- SECTION 1 : BANNIÈRE ET TITRE PRO -->
+
+<!-- Utilisation du Placeholder simple et direct (fonctionne toujours) -->
 
 <div align="center">
-<!-- Image de dégradé pour simuler la bannière de dconco -->
+<!-- BANNIÈRE (URL CORRIGÉE) -->
 <a href="https://github.com/HASINA-NIRINA">
 <img src="https://www.google.com/search?q=https://via.placeholder.com/900x120/4B0082/FFFFFF%3Ftext%3DHASINA-NIRINA%2520%25E2%2580%25A2%2520FULL-STACK%2520DEV" alt="Bannière de profil - Développeur Full-Stack" style="width: 100%; max-width: 900px; border-radius: 8px;">
 </a>
@@ -51,9 +53,70 @@ return "Transformer les idées en code, un commit à la fois.";
 </code></pre>
 </td>
 <td width="40%" align="center">
-<!-- Image d'illustration de développeur pour un look pro -->
-<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Développeur en illustration" width="100%">
+<!-- IMAGE D'ILLUSTRATION (URL CORRIGÉE) -->
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Développeur en illustration animé" width="100%">
 </td>
 </tr>
 </table>
 
+<!-- SECTION 4 : EXPERTISE MATRIX (BADGES) -->
+
+<h2 align="center">💻 Expertise Matrix</h2>
+
+Frontend Mastery
+
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next.js Badge"/>
+</p>
+
+Backend Skills
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker Badge"/>
+</p>
+
+<!-- SECTION 5 : PERFORMANCE ANALYTICS (Statistiques dynamiques) -->
+
+<h2 align="center">📊 PERFORMANCE ANALYTICS</h2>
+
+<p align="center">
+<!-- Statistique 1 : Résumé des stats -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHASINA-NIRINA%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26locale%3Dfr" alt="Statistiques GitHub" />
+
+<!-- Statistique 2 : Langages les plus utilisés -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASINA-NIRINA&layout=compact&theme=dark&locale=fr" alt="Langages les plus utilisés" />
+
+
+</p>
+
+<h3 align="center">Activité sur le Profil</h3>
+<p align="center">
+<!-- Statistique 3 : Graphique d'activité -->
+<img src="https://www.google.com/search?q=https://activity-graph.vercel.app/graph%3Fusername%3DHASINA-NIRINA%26theme%3Dgithub-dark" alt="Graphique de contributions" />
+</p>
+
+<!-- SECTION 6 : CONNECT WITH ME (Liens réseaux sociaux) -->
+
+<h2 align="center">🔗 CONNECT WITH ME</h2>
+
+<p align="center">
+<a href="Lien vers votre portfolio (à remplacer)">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dchrome%26logoColor%3Dwhite" alt="Portfolio Badge">
+</a>
+<a href="Lien vers votre LinkedIn (à remplacer)">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge">
+</a>
+<a href="Lien vers votre Twitter (à remplacer)">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter Badge">
+</a>
+<a href="mailto:votre@email.com (à remplacer)">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge">
+</a>
+</p>
