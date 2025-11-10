@@ -9,14 +9,15 @@ Les liens d'images ont été rectifiés pour l'affichage immédiat.
 
 <div align="center">
 <!-- BANNIÈRE (URL CORRIGÉE) -->
-<a href="https://github.com/HASINA-NIRINA">
-<img src="https://www.google.com/search?q=https://via.placeholder.com/900x120/4B0082/FFFFFF%3Ftext%3DHASINA-NIRINA%2520%25E2%2580%25A2%2520FULL-STACK%2520DEV" alt="Bannière de profil - Développeur Full-Stack" style="width: 100%; max-width: 900px; border-radius: 8px;">
+<a href="https://github.com/HASINA-Nirina">
+<img src="https://www.pinterest.com/pin/10203536651781849/" alt="Bannière de profil - Développeur Full-Stack" style="width: 100%; max-width: 900px; border-radius: 8px;">
 </a>
 </div>
 
 <div align="center">
 <p><h3>👋 Bienvenue dans mon univers de code !</h3></p>
-<h1>🔥 Je suis donc je code, je code donc j'existe, j'existe donc je suis. 💻</h1>
+<h1>Je suis HASINA Nirina Frontend developpeur</h1>
+<h2>Construire le web de demain, dès aujourd'hui.</h2>
 </div>
 
 <!-- SECTION 2 : MISSION STATEMENT (Déclaration de mission) -->
@@ -24,7 +25,7 @@ Les liens d'images ont été rectifiés pour l'affichage immédiat.
 <h2 align="center">🎯 MISSION STATEMENT</h2>
 <blockquote align="center">
 <p>"Concevoir des expériences numériques qui inspirent, innovent et impactent le monde."</p>
-<h4>⭐ Développeur Passionné • Créateur de Solutions • Contributeur Open Source</h4>
+<h4>⭐ Développeur Passionné </h4>
 </blockquote>
 
 <!-- SECTION 3 : ABOUT ME (Bloc de code stylisé AVEC IMAGE d'illustration) -->
@@ -38,14 +39,9 @@ Les liens d'images ont été rectifiés pour l'affichage immédiat.
 <pre><code>
 const HasinaBoy = {
 nom: "HASINA-NIRINA",
-role: "Full-Stack Developer",
+role: "Frontend Developer",
 localisation: "Antananarivo, Madagascar",
-passions: [
-"Résoudre des problèmes complexes",
-"Contribuer à la communauté open source",
-"Apprendre de nouvelles architectures"
-],
-currentFocus: "Maîtriser Python/Django et les écosystèmes React/Next.js.",
+currentFocus: "Apprendre FastAPI et les écosystèmes React/Next.js et TailwindCSS.",
 getMotivation: () => {
 return "Transformer les idées en code, un commit à la fois.";
 }
