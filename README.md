@@ -1,11 +1,6 @@
 <!-- README.md – HASINA NIRINA | Frontend Developer -->
 
-<!-- 🌈 SECTION 1 : BANNIÈRE PRINCIPALE -->
-<div align="center">
-  <img src="https://www.google.com/imgres?q=image%20manga%20luffy%20for%20pc&imgurl=https%3A%2F%2Fmedia.ultimate-manga.com%2Fwallpapers%2Fluffy-one-piece-wallpaper-pc.jpg&imgrefurl=https%3A%2F%2Fultimate-manga.com%2Ffond-ecran-one-piece%2Fluffy&docid=6PeUPk-9ruucnM&tbnid=WC8AYPEcm2IzMM&vet=12ahUKEwiS8_TD1-eQAxXaXUEAHammDvU4ChAzegQIHBAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiS8_TD1-eQAxXaXUEAHammDvU4ChAzegQIHBAA" alt="Dark Luffy Wallpaper Banner" style="width:100%; max-width:900px; border-radius:16px; box-shadow:0 6px 20px rgba(0,0,0,0.35);">
-  <h1 style="margin-top:20px; font-size:2.5rem; color:#ffffff;">hasina.dev</h1>
-  <h3 style="color:#00e6ac;">Où le code rencontre la créativité</h3>
-</div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQuanyfICQKEtj0HznSOqdUyn267LebBdzzA&s" alt="Dark Luffy Wallpaper Banner" style="width:100%; max-width:900px; border-radius:16px; box-shadow:0 6px 20px rgba(0,0,0,0.35);">
 
 ---
 
@@ -46,7 +41,7 @@ const HasinaNirina = {
 </code></pre>
 </td>
 <td width="40%" align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAshish-coder-gif&psig=AOvVaw2OB8zMg5rKLv_Z1khOE8wZ&ust=1762867714733000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjnu53Y55ADFQAAAAAdAAAAABAE" alt="Anime Developer Coding" width="100%" style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.3);">
+<img src="https://avatars.githubusercontent.com/u/197064959?v=4" alt="Anime Developer Coding" width="100%" style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.3);">
 </td>
 </tr>
 </table>
