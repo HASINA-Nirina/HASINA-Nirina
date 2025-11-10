@@ -54,69 +54,7 @@ return "Transformer les idées en code, un commit à la fois.";
 </td>
 <td width="40%" align="center">
 <!-- IMAGE D'ILLUSTRATION (URL CORRIGÉE) -->
-<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Développeur en illustration animé" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" alt="Développeur en illustration animé" width="100%">
 </td>
 </tr>
 </table>
-
-<!-- SECTION 4 : EXPERTISE MATRIX (BADGES) -->
-
-<h2 align="center">💻 Expertise Matrix</h2>
-
-Frontend Mastery
-
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next.js Badge"/>
-</p>
-
-Backend Skills
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker Badge"/>
-</p>
-
-<!-- SECTION 5 : PERFORMANCE ANALYTICS (Statistiques dynamiques) -->
-
-<h2 align="center">📊 PERFORMANCE ANALYTICS</h2>
-
-<p align="center">
-<!-- Statistique 1 : Résumé des stats -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHASINA-NIRINA%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26locale%3Dfr" alt="Statistiques GitHub" />
-
-<!-- Statistique 2 : Langages les plus utilisés -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASINA-NIRINA&layout=compact&theme=dark&locale=fr" alt="Langages les plus utilisés" />
-
-
-</p>
-
-<h3 align="center">Activité sur le Profil</h3>
-<p align="center">
-<!-- Statistique 3 : Graphique d'activité -->
-<img src="https://www.google.com/search?q=https://activity-graph.vercel.app/graph%3Fusername%3DHASINA-NIRINA%26theme%3Dgithub-dark" alt="Graphique de contributions" />
-</p>
-
-<!-- SECTION 6 : CONNECT WITH ME (Liens réseaux sociaux) -->
-
-<h2 align="center">🔗 CONNECT WITH ME</h2>
-
-<p align="center">
-<a href="Lien vers votre portfolio (à remplacer)">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dchrome%26logoColor%3Dwhite" alt="Portfolio Badge">
-</a>
-<a href="Lien vers votre LinkedIn (à remplacer)">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge">
-</a>
-<a href="Lien vers votre Twitter (à remplacer)">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter Badge">
-</a>
-<a href="mailto:votre@email.com (à remplacer)">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge">
-</a>
-</p>
