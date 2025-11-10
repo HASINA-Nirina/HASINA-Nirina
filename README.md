@@ -2,7 +2,7 @@
 
 <!-- 🌈 SECTION 1 : BANNIÈRE PRINCIPALE -->
 <div align="center">
-  <img src="https://wallpapers.com/images/hd/dark-luffy-one-piece-4k-9fl1g5cz7n0j6hbp.jpg" alt="Dark Luffy Wallpaper Banner" style="width:100%; max-width:900px; border-radius:16px; box-shadow:0 6px 20px rgba(0,0,0,0.35);">
+  <img src="https://www.google.com/imgres?q=image%20manga%20luffy%20for%20pc&imgurl=https%3A%2F%2Fmedia.ultimate-manga.com%2Fwallpapers%2Fluffy-one-piece-wallpaper-pc.jpg&imgrefurl=https%3A%2F%2Fultimate-manga.com%2Ffond-ecran-one-piece%2Fluffy&docid=6PeUPk-9ruucnM&tbnid=WC8AYPEcm2IzMM&vet=12ahUKEwiS8_TD1-eQAxXaXUEAHammDvU4ChAzegQIHBAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiS8_TD1-eQAxXaXUEAHammDvU4ChAzegQIHBAA" alt="Dark Luffy Wallpaper Banner" style="width:100%; max-width:900px; border-radius:16px; box-shadow:0 6px 20px rgba(0,0,0,0.35);">
   <h1 style="margin-top:20px; font-size:2.5rem; color:#ffffff;">hasina.dev</h1>
   <h3 style="color:#00e6ac;">Où le code rencontre la créativité</h3>
 </div>
@@ -25,9 +25,6 @@
 <blockquote align="center" style="font-size:1.2rem; color:#00bfa5;">
 "Concevoir des interfaces qui inspirent, engagent et repoussent les limites du web."
 </blockquote>
-<div align="center">
-🌟 **Code Lover** • 🎨 **UI Builder** • ⚡ **Performance Addict**
-</div>
 
 ---
 
@@ -49,7 +46,7 @@ const HasinaNirina = {
 </code></pre>
 </td>
 <td width="40%" align="center">
-<img src="https://i.pinimg.com/736x/0e/6a/f2/0e6af2d5d9f1bdb92e1a67a6e781d742.jpg" alt="Anime Developer Coding" width="100%" style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.3);">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAshish-coder-gif&psig=AOvVaw2OB8zMg5rKLv_Z1khOE8wZ&ust=1762867714733000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjnu53Y55ADFQAAAAAdAAAAABAE" alt="Anime Developer Coding" width="100%" style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.3);">
 </td>
 </tr>
 </table>
@@ -73,9 +70,6 @@ const HasinaNirina = {
 <!-- 🌐 SECTION 6 : CONTACT -->
 <h2 align="center">🌐 CONTACT</h2>
 <div align="center">
-<a href="https://www.linkedin.com/in/hasina-nirina/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/HasinaDev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://github.com/HASINA-Nirina"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 
 📧 **jinxpowder2004@gmail.com**
 </div>
